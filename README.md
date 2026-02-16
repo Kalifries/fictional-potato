@@ -1,7 +1,7 @@
 ---
 title: "Android Workbench"
 date: 2026-02-15
-tags: [bootloader unlocker, fastboot, adb, phone info, logcat, sideload
+tags: bootloader unlocker, fastboot, adb, phone info, logcat, sideload
 status: active  # draft|active|done|archived
 project: " A script that automates adb/fastboot commands to manipulate your android device in different ways."
 ---
